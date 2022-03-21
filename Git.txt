@@ -1,0 +1,29 @@
+Para ir guardando cosas y probando git...
+otra modificiacion
+
+/Lorem ipsum
+//video github
+
+/Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+git paso a paso
+1. Entro en la carpeta que quiero que se convierta en un repositorio de github
+usando comandos de terminal
+o clono un repositorio de git
+
+1.2. Creo un repositorio con: ;La carpeta se convierte en un repositorio
+  - git init
+1.3. clonar uno que ya exista
+  - git clone "url"
+
+2. Para ver el estado de mi repositorio.
+  - git status
+Esto me dice en que rama estoy, si hay archivos modificados o preparados
+
+Si esta en rojo: modificado en "Unsataged changes" sin estar preparado para
+ser subido mediante un commit
+
+Si esta en verde: esta modificado en "Staged changes" pero preparado para commit
+
+2.1 Va a estar en rojo cuando : hayamos editado un archivo y lo guardamos
+2.2 Va a estar en verde cuando: 
+  - git add nombreArchivo
