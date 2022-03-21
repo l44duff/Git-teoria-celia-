@@ -25,5 +25,5 @@ ser subido mediante un commit
 Si esta en verde: esta modificado en "Staged changes" pero preparado para commit
 
 2.1 Va a estar en rojo cuando : hayamos editado un archivo y lo guardamos
-2.2 Va a estar en verde cuando: 
+2.2 Va a estar en verde cuando:
   - git add nombreArchivo
