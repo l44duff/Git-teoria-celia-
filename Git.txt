@@ -42,6 +42,15 @@ este mensaje solo es para hacer el add y el commit por terminal
   -git push "url"
 5.2 Si ya tenemos enlazado el github con el repositorio:
   - git push
-
-el git diff es para ver el cambio que hemos hecho ANTES de subirlo que
+--------------------------------------------------------------------------------
+24.03.2022
+6. VER MODIFICACIONES
+El git diff------> es para ver el cambio que hemos hecho ANTES de subirlo que
 a diferencia del log -p este no lo hace antes del commit.
+
+7.CREAR RAMAS
+-git branch: para saber las ramas que hayamos
+con un * te indica en cuales estamos
+
+-git branch nombreRama: crear una rama
+-git checkout nombreRama: para cambiar de rama
