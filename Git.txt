@@ -61,3 +61,11 @@ Para subir la rama tienes que poner:
 Cuando cambias de rama ves lo que hay escrito en ella y no te aparece en la rama
 master
 (el merge no cae)
+9.Unir RAMAS :
+
+9.1 si solo se ha hecho modificiacion en la rama hijo podemos usar
+  -git merge nombreRamaDestino
+
+9.2Si se han hecho modificiaciones en las dos ramas "padre" e "hijo" copiamos
+la info de hijo en el padre y despues eliminarmos el hijo.
+  -git fetch "url de la rama que queremos copiar en la actual"
