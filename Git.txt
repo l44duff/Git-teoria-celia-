@@ -42,3 +42,6 @@ este mensaje solo es para hacer el add y el commit por terminal
   -git push "url"
 5.2 Si ya tenemos enlazado el github con el repositorio:
   - git push
+
+el git diff es para ver el cambio que hemos hecho ANTES de subirlo que
+a diferencia del log -p este no lo hace antes del commit.
