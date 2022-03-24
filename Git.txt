@@ -59,4 +59,6 @@ con un * te indica en cuales estamos
 Para subir la rama tienes que poner:
   -git push url del repositorio
 Cuando cambias de rama ves lo que hay escrito en ella y no te aparece en la rama
-master 
+master
+
+ESTOY EN RAMA2 
