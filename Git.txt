@@ -29,3 +29,16 @@ Si esta en verde: esta modificado en "Staged changes" pero preparado para commit
   - git add nombreArchivo
 este mensaje solo es para hacer el add y el commit por terminal
 - commit: git commit -m "nombre"
+
+3.Para ver los commit realizados
+- git log (para ver los commit que hemos ido haciendo) y q para salir
+- git log -p: como el comando de arriba solo que aqui veo que he modificado
+  Si a este último comando le añades un -2 salen los últimos commit
+
+4.Para hacer commit y add al mismo tiempo
+-git commit -a -m "nombre Commit" : hace el git add y el commit al mismo tiempo
+5. Para hacer el push:
+5.1 Si no tememos emlazado el repositorio:
+  -git push "url"
+5.2 Si ya tenemos enlazado el github con el repositorio:
+  - git push
